@@ -22,7 +22,7 @@ This session is ideal for researchers, staff, and students preparing to share da
 
 ## Workshop Preparation 
 
-None
+If you have a dataset ready to submit, bring it along! No dataset, no problems--we have a sample dataset you can use to go through the process and learn how to deposit data.
 
 ## Facilitator Bio
 
