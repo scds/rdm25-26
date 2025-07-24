@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [Onsite] Data Management Plan Bootcamp
+title: (Onsite) Data Management Plan Bootcamp
 nav_order: 20251125
 ---
 
