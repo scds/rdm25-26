@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Management Plan Bootcamp
-nav_order: 20251126
+nav_order: 20251125
 ---
 
 <img src="assets/img/dmp-bootcamp2.png" alt="Workshop Title Slide" width="100%">
