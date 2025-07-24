@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (Winter) Best Practices for Managing Data in your Research
+title: Best Practices for Managing Data in your Research (Winter Term)
 nav_order: 20260114
 ---
 

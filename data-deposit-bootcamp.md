@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (Onsite) Data Deposit Bootcamp
+title: Data Deposit Bootcamp (In-Person)
 nav_order: 20260519
 ---
 

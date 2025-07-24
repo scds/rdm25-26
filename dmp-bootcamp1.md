@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (Online) Data Management Plan Bootcamp
+title: Data Management Plan Bootcamp (Virtual)
 nav_order: 20251119
 ---
 

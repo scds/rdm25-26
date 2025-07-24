@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (Fall) Best Practices for Managing Data in your Research
+title: Best Practices for Managing Data in your Research (Fall Term)
 nav_order: 20251001
 ---
 
