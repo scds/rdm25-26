@@ -19,7 +19,9 @@ This participatory session is especially relevant for researchers at all levels 
 
 ## Workshop Preparation 
 
-None
+Make sure you have access to any data-related information needed to work on your DMP. Consult with colleagues, PIs, or anyone else to ensure you have access to ethics applications, security measures, consent forms, study protocols, backup systems, storage locations, data types, and any other documentation. 
+
+Please bring your laptop and a refillable water bottle. We will have snacks and drinks to keep you all going! 
 
 ## Facilitator Bio
 
