@@ -18,12 +18,11 @@ By the end of this session, participants will be able to:
 This participatory session is especially relevant for researchers at all levels in the beginning stages of a research project or streamlining best practices for their research team. Come on your own, send your research staff, or bring your whole research group. Let us know if you're joining as a research team - we'll make sure you get an online breakout room to work together in! Bring your own snacks to your desk and enjoy this dedicated time to work on your plan with extra support. 
 
 ## Workshop Preparation 
-
-None
+Make sure you have access to any data-related information needed to work on your DMP. Consult with colleagues, PIs, or anyone else to ensure you have access to ethics applications, security measures, consent forms, study protocols, backup systems, storage locations, data types, and any other documentation.  
 
 ## Facilitator Bio
 
-Danica Evering holds expansive experience with research support, education, project management, advocacy, and knowledge translation; with fluency in social practice art, healthcare, community research, data, and systems development. Danica supports students, postdocs, faculty, and staff with RDM through the data lifecycle—Data Management Plans, storage and backup, data security, data sharing. With an MA in Media Studies from Concordia, they are interested in fostering RDM within curious scholars and disciplines.
+Danica Evering (they/them) is a Research Data Management Specialist grounded in curiosity and a deep commitment to ethics. Danica is available to help students, postdocs, faculty, and staff with RDM through the data lifecycle—Data Management Plans, storage and backup, data security, data sharing. With an MA in Media Studies, Danica fosters active interest in RDM across disciplines, with a knack for engaging researchers who might not even realize they have data to manage. Outside of work they sing in a choir, play PC games, maintain an art writing practice, grow a garden, contribute Wikipedia articles, and run. 
 
 ## Workshop Slides
 
