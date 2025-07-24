@@ -20,13 +20,13 @@ Add, edit, or remove any content below for the workshop in question. -->
 <img src="assets/img/titleSlide.png" alt="Workshop Title Slide" width="100%">
 
 <!-- Main header -->
-# Welcome to DASH: The Data Analysis Support Hub Webinars
+# Welcome to Research Data Management (RDM): 2025-26 Webinars
 
 DASH workshops help registrants with data analysis and visualization by providing training for software programs and coding languages including Excel, LaTeX, Python, R, and SPSS.
 
-DASH workshops welcome students, staff, and faculty from any discipline, as well as the public at large. A number of DASH workshops are also geared towards beginners, so even if you’re new to data analysis, we encourage you to sign up and learn!
+RDM workshops welcome students, staff, and faculty from any discipline, as well as the public at large. A number of RDM workshops are also geared towards beginners, so even if you’re new to data management, we encourage you to sign up and learn!
 
-## 2025-2026 DASH Workshop Topics
+## 2025-2026 RDM Workshop Topics
 
 <div markdown="1" style="border: 1px solid #7a003c; border-radius: 6px; margin-bottom: 1em; padding: 0.5em 1em 0; margin-top: 1em;" class="toc">
 <summary style="cursor:default; display: block; border-bottom: 1px solid #302d36; margin-bottom: 0.5em">
