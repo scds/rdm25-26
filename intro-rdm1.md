@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Best Practices for Managing Data in your Research
-nav_order: 20261001
+nav_order: 20251001
 ---
 
 <img src="assets/img/intro-rdm1.png" alt="Workshop Title Slide" width="100%">
