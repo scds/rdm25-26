@@ -6,7 +6,7 @@ nav_order: 20251119
 
 <img src="assets/img/dmp-bootcamp1.png" alt="Workshop Title Slide" width="100%">
 
-# Data Management Plan Bootcamp
+# [Online] Data Management Plan Bootcamp 
 
 Our popular DMP Bootcamp is back, reformatted into a hands-on online intensive for remote researchers on the go! Data Management Plans (DMPs) are both incredibly helpful research tools and increasingly required for grants but it can hard to know how to complete a Data Management Plan if it’s your first time. This session is carefully timed for researchers completing a CFI or Tri-Agency grant. If you're in the process of creating a DMP, either for a grant application or for your own research, join RDM Services for this afternoon session. The RDM Services team will provide tailored guidance as you write your plan online--we'll pop into your breakout rooms to make sure everything is going smoothy. Come away with a clear path forward or even a finished DMP! 
 
