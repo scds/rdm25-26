@@ -6,7 +6,7 @@ nav_order: 20260519
 
 <img src="assets/img/data-deposit-bootcamp.png" alt="Workshop Title Slide" width="100%">
 
-# [Onsite] Data Deposit Bootcamp
+# Data Deposit Bootcamp (In-Person)
 
 Data deposit and data sharing are increasingly recognized as best practice to support open research, reproducibility, research integrity, collaboration, and more. Disciplines, funders, and journals are increasingly requiring researchers to share or deposit data. But how do you get your dataset ready for sharing? What's the best repository to share it in? With light snacks and refreshments to sustain you and specialists on-hand to answer any questions, you'll end this session with ready-to-submit data...or submitted or even published data!
 

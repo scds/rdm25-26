@@ -6,7 +6,7 @@ nav_order: 20260512
 
 <img src="assets/img/dmp-bootcamp3.png" alt="Workshop Title Slide" width="100%">
 
-# [Onsite] Data Management Plan Bootcamp
+# Data Management Plan Bootcamp (In-Person)
 
 
 Let us be your body double with this in-person bootcamp! Data Management Plans (DMPs) are both incredibly helpful research tools and increasingly required for grants but it can hard to know how to complete a Data Management Plan if it’s your first time.  If you're in the process of creating a DMP, either for a grant application or for your own research, join RDM Services for this afternoon session. The RDM services team will provide tailored guidance as you write your plan on site, and we'll have some light snacks and refreshments to keep you going. Come away with a clear path forward or even a finished DMP! 
