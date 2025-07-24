@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Best Practices for Managing Data in your Research
+title: (Fall) Best Practices for Managing Data in your Research
 nav_order: 20251001
 ---
 
 <img src="assets/img/intro-rdm1.png" alt="Workshop Title Slide" width="100%">
 
-# Best Practices for Managing Data in your Research
+# [Fall] Best Practices for Managing Data in your Research
 
 ***TIFU (Today I F'ed Up) by losing a ton of data for my research*** - Have you ever seen a description like this on Reddit? Are your desktop and downloads folders a jumble of files named Data-finalFINAL-USETHISONE? Is all of your lab's data stored on a single drive located conveniently under a sprinkler system? Join research data management services and learn how investing a small amount of time in organizing your data now can save you a lot of time and prevent future headaches. In this introductory workshop, learn about research data management best practices. We will go over best practices for data planning, storage, organization, preservation, and sharing.
 
