@@ -8,7 +8,7 @@ nav_order: 20260114
 
 # Best Practices for Managing Data in your Research (Winter Term)
 
-***TIFU (Today I F'ed Up) by losing a ton of data for my research*** - Have you ever seen a description like this on Reddit? Are your desktop and downloads folders a jumble of files named Data-finalFINAL-USETHISONE? Is all of your lab's data stored on a single drive located conveniently under a sprinkler system? Join research data management services and learn how investing a small amount of time in organizing your data now can save you a lot of time and prevent future headaches. In this introductory workshop, learn about research data management best practices. We will go over best practices for data planning, storage, organization, preservation, and sharing.
+**TIFU (Today I F'ed Up) by losing a ton of data for my research** - Have you ever seen a description like this on Reddit? Are your desktop and downloads folders a jumble of files named Data-finalFINAL-USETHISONE? Is all of your lab's data stored on a single drive located conveniently under a sprinkler system? Join research data management services and learn how investing a small amount of time in organizing your data now can save you a lot of time and prevent future headaches. In this introductory workshop, learn about research data management best practices. We will go over best practices for data planning, storage, organization, preservation, and sharing.
 
 By the end of the session, participants will be empowered to: 
 - Produce a plan for their data
