@@ -18,7 +18,7 @@ By the end of this 3-hour session, you will be able to:
 
 If you have a dataset that's ready for deposit or that you'd like to get deposit ready, bring it along. No dataset? No problem! We have a sample dataset you can use to go through the process and learn how to deposit data. 
 
-This session is ideal for researchers, staff, and students preparing to share data for a publication, grant, or project—and for anyone interested in open data best practices. Graduate students who have completed their thesis work are especially encouraged to attend!  Pair this with our Data Management Plan Bootcamp May 12, 2026 for a spring research data management intensive for graduate researchers and research staff. 
+This session is ideal for researchers, staff, and students preparing to share data for a publication, grant, or project—and for anyone interested in open data best practices. Graduate students who have completed their thesis work are especially encouraged to attend!  **Pair this with our Data Management Plan Bootcamp May 12, 2026 for a spring research data management intensive for graduate researchers and research staff.**
 
 ## Workshop Preparation 
 
