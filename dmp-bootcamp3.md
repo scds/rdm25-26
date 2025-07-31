@@ -16,7 +16,7 @@ By the end of this session, participants will be able to:
 - Compare strong and weak responses in each section of a DMP.
 - Develop a tailored outline, or potentially a complete draft, of their own DMP!
 
-This participatory session is especially relevant for researchers at all levels in the beginning stages of a research project or streamlining best practices for their research team. Pair this with our Data Deposit Bootcamp May 19, 2026 for a spring research data management intensive for graduate researchers and research staff. Come on your own, send your research staff, or bring your whole research group. Let us know if you're joining as a research team - we'll make sure you get a table to work together at! 
+This participatory session is especially relevant for researchers at all levels in the beginning stages of a research project or streamlining best practices for their research team. **Pair this with our Data Deposit Bootcamp May 19, 2026 for a spring research data management intensive for graduate researchers and research staff.** Come on your own, send your research staff, or bring your whole research group. Let us know if you're joining as a research team - we'll make sure you get a table to work together at! 
 
 ## Workshop Preparation 
 
