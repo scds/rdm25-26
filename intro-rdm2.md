@@ -32,3 +32,7 @@ Danica Evering (they/them) is a Research Data Management Specialist grounded in 
 <embed src="assets/docs/2026-01-14_BPMDR.pdf" style="border:none;" width="100%" height="466px">
 
 [Download as PDF.](assets/docs/2026-01-14_BPMDR.pdf)
+
+
+## Workshop Recording
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/db60cee8-d48e-4f26-b861-8912743dcfd6/public"></iframe> [View original here.](https://echo360.ca/media/db60cee8-d48e-4f26-b861-8912743dcfd6/public)
