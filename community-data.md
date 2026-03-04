@@ -34,3 +34,10 @@ Isaac Pratt (he/him) is a research scientist by training and has a PhD in Anatom
 <embed src="assets/docs/2026-02-19_CommunityDataToolkits.pdf" style="border:none;" width="100%" height="466px">
 
 [Download as PDF.](assets/docs/2026-02-19_CommunityDataToolkits.pdf)
+
+
+## Workshop Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/cd1dc2e2-22c8-4abb-ab7f-b05af0645d00/public"></iframe>
+[View original here.](https://echo360.ca/media/cd1dc2e2-22c8-4abb-ab7f-b05af0645d00/public)
+
