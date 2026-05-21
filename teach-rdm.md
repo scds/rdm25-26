@@ -36,3 +36,5 @@ Danica Evering (they/them) is a Research Data Management Specialist grounded in 
 <embed src="assets/docs/2026_RDMEducators-Slides.pdf" style="border:none;" width="100%" height="466px">
 
 [Download as PDF.](assets/docs/2026_RDMEducators-Slides.pdf)
+
+# Explore the RDM Educators Kit 
