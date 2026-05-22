@@ -32,8 +32,6 @@ Danica Evering (they/them) is a Research Data Management Specialist grounded in 
 
 ## Workshop Slides
 
-Coming soon.
+<embed src="assets/docs/2026-05-19_Deposit-InPerson.pdf" style="border:none;" width="100%" height="466px">
 
-<!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
-
-[Download as PDF.](assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf)-->
+[Download as PDF.](assets/docs/2026-05-19_Deposit-InPerson.pdf)
